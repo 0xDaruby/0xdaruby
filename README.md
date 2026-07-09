@@ -1,7 +1,12 @@
+```md
 <p align="center">
   <a href="https://github.com/0xdaruby">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=506&text=GM!%20I'm%20David" alt="GM! I&#39;m David" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=18&duration=3500&pause=1000&color=5B6573&center=true&vCenter=true&width=520&lines=Building+today+for+a+better+tomorrow" alt="Building today for a better tomorrow" />
 </p>
 
 ### 🚀 About Me
@@ -48,4 +53,5 @@ Information Technology Intern building web apps, Python &amp; AI automations, an
 </p>
 
 ---
-<p align="center"><i>⭐️ By <a href="https://www.oxdaruby.tech/">0xdaruby</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/0xdaruby">0xdaruby</a></i></p>
+```
