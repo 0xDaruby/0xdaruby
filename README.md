@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=18&duration=3500&pause=1200&color=5B6573&center=true&vCenter=true&width=520&lines=Building+today+for+a+better+tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier&size=18&duration=3500&pause=1200&color=5B6573&center=true&vCenter=true&width=540&lines=Building+today+for+a+better+tomorrow+%3B)" alt="Typing SVG" />
 </p>
+
 
 ### 🚀 About Me
 
