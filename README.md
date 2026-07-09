@@ -48,4 +48,4 @@ Information Technology Intern building web apps, Python &amp; AI automations, an
 </p>
 
 ---
-<p align="center"><i>⭐️ By <a href="(https://www.oxdaruby.tech/)">0xdaruby</a></i></p>
+<p align="center"><i>⭐️ By <a href="https://www.oxdaruby.tech/">0xdaruby</a></i></p>
