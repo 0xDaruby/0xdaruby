@@ -42,7 +42,10 @@ Information Technology Intern building web apps, Python & AI automations, and ex
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xdaruby&bg_color=000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+    <img width="100%" src="./assets/lifetime.light.svg" alt="GitHub contribution graph" />
+  </picture>
 </p>
 
 ### 💭 Dev Quote
