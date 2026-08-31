@@ -14,14 +14,20 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
 
-      - name: Generate contribution graph
-        uses: seijikohara/profile-cards-action@v1
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: 0xdaruby
-          cards: lifetime
-          output-dir: assets
-          themes: light,dark
-          commit: true
+          username: 0xDaruby
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: assets/activity-graph.svg
+          options: bg_color=00000000&color=5b6573&line=5b6573&point=c9d1d9&area=true&hide_border=true&days=31
+
+      - name: Commit updated graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git diff --cached --quiet || git commit -m "Update contribution graph"
+          git push

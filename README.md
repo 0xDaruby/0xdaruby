@@ -42,10 +42,7 @@ Information Technology Intern building web apps, Python & AI automations, and ex
 ### 📈 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-    <img width="100%" src="./assets/lifetime.light.svg" alt="GitHub contribution graph" />
-  </picture>
+  <img width="100%" src="./assets/activity-graph.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ### 💭 Dev Quote
